@@ -93,11 +93,12 @@ class Hobbit
         @age = 0
         @is_adult = false
         @is_old = false
-        @has_ring = false
+        @has_ring = has_ring
     end
-    def ring 
-        @name == "Frodo"
-        @has_ring = true
+    def has_ring
+       if @name == "Frodo"
+            @has_ring = true
+       end
     end
     def celebrate_birthday
         @age += 1
@@ -123,4 +124,4 @@ end
 p hobbit1
 
 hobbit2 = Hobbit.new("Frodo", "Courageous")
-p hobbit2.ring
+p hobbit2
