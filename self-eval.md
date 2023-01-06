@@ -1,5 +1,6 @@
 # Self Evaluation
 
 - This final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
-- What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need?
+This CFU was quite challenging! It took me time, googling, asking questions and joining the study hall to be able to get through it. But I felt it was exhilirating and worth my time to learn.
+- How is your workflow going, in terms of taking breaks, staying focused, etc.? I am working about an hour at a time and taking 5-10 minute break with a bigger break for lunch and dinner. I feel good about being able to keep this workflow.
+- What do you need to do to be ready for intense technical lessons and challenges like this, for 6 hours/day next week? What support do you need? I need to keep studying on my own time to build knowledge and muscle memory so that my foundating can be strong going into mod1. I will be looking to spend my time wisely to ensure I am coming in confident in that I can keep up with the workload.
