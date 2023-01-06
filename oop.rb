@@ -29,6 +29,25 @@ p unicorn1.say
 #  it should have a thirsty attribute, that is true by default
 #  it should have a drink method. When called, the thirsty attribute changes to false
 
+class Vampire
+    def initialize(name)
+        @name = name
+        @pet = "bat"
+        @thirsty = true
+    end
+    def change_pet(new_pet)
+        @pet = new_pet
+    end
+    def drink
+      @thirsty = false
+    end
+end
+vampire1 = Vampire.new("Vladimir")
+p vampire1
+vampire1.change_pet("spider")
+p vampire1
+vampire1.drink
+p vampire1
 
 #  Write a Dragon class
 #  it should have a dynamic name attribute (string)
@@ -36,6 +55,7 @@ p unicorn1.say
 #  it should have a dynamic color attribute (string)
 #  it should have a is_hungry attribute that is true by default
 #  it should have a eat method. If the dragon eats 4 times, it is no longer hungry
+
 
 
 #  Write a Hobbit class
